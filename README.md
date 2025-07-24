@@ -33,7 +33,15 @@ Modern Therapy is a **responsive website** built using **HTML** and **CSS**, foc
 ## 🚀 Getting Started
 
 To run this project locally:
+## 📁 GitHub Repository
+📦 [github.com/Stepanyan-Levon/Modern-therapy](https://github.com/Stepanyan-Levon/Modern-therapy/)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Stepanyan-Levon/Modern-therapy.git
+---
+
+## 🧠 All My Repositories
+👨‍💻 [github.com/Stepanyan-Levon](https://github.com/Stepanyan-Levon)
+
+---
+
+## 📬 Contact Me
+💼 [LinkedIn – Levon Stepanyan](https://www.linkedin.com/in/levon-stepanyan-a2a63b296/)
