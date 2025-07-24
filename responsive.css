@@ -1,0 +1,128 @@
+@media only screen and  (max-width: 1075px) {
+    .sec-3 {
+        background: linear-gradient(0deg, rgba(255, 255, 255, 1) 78%, rgba(173, 204, 233, 1) 0%);
+    }
+    .round{
+        justify-content: end;
+        flex-direction: column-reverse;
+    }
+
+    .about{
+        width: 82%;
+    }
+.big{
+    width: 50%;
+    height: 100%;
+    border:none;
+    border-radius: 0;
+}
+    .circle-2.big >img {
+            border-radius: 50%;
+            width: 520px;
+            height: 520px;
+            object-fit: cover;
+
+    }
+    .circle-3{
+        top: 50%;
+    }
+    .circle-5{
+        right: 0;
+        left: auto;
+        bottom: 0;
+    }
+    .cards{
+        width: 43%;
+    }
+    .sec-3 {
+        background: linear-gradient(0deg, rgba(255, 255, 255, 1) 61%, rgba(173, 204, 233, 1) 0%);
+    }
+    .therapists{
+        width: 40%;
+    }
+    .therapists2{
+        width: 43%;
+    }
+    .self-card{
+        width: 83%;
+    }
+    .about2{
+        width: 38%;
+    }
+}
+@media only screen and  (max-width: 905px) {
+    .sec-3 {
+        background: linear-gradient(0deg, rgba(255, 255, 255, 1) 80%, rgba(173, 204, 233, 1) 0%);
+    }
+}
+@media only screen and  (max-width: 725px) {
+    .background-colors {
+        width: 82%;
+    }
+    .cards {
+        width: 90%;
+    }
+    .sec-3 {
+        background: linear-gradient(0deg, rgba(255, 255, 255, 1) 91%, rgba(173, 204, 233, 1) 0%);
+    }
+    .therapists{
+    width: 77%;
+    }
+    .therapists {
+        img {
+            width: 100%;
+            object-fit: cover;
+            height: 500px;
+        }
+    }
+    .circle-4 {
+        width: 300px !important;
+        height: 300px !important;
+         right: auto;
+         top: auto;
+        bottom: 0;
+        left: 0;
+    }
+    .big{
+        width: 100%;
+        overflow: hidden;
+    }
+    .circle-2.big >img {
+        border-radius: 50%;
+        width: 420px;
+        height: 420px;
+        object-fit: cover;
+
+    }
+    .director {
+     width: 50%;
+     text-align: center;
+        }
+        .director-info {
+            width: 70%;
+            padding: 15px 0;
+            text-align: center;
+        }
+        .about2{
+        width: 65%;
+    }
+        .about3{
+        width: 90%;
+    }
+
+}
+
+@media only screen and  (max-width: 565px) {
+    .cards {
+        width: 72%;
+    }
+
+    .circle-4 {
+        position: relative;
+
+    }
+
+    .circle-6 {
+        bottom: 0;
+    }
+}
